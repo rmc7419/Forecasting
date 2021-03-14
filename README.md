@@ -16,7 +16,7 @@ Forecasting model building methods:-
 
 Data Used :
 1)	Airlines dataset :- Forecast the data and find the RMSE value for each model.Find the best model for forecasting.
-2)	Coca cola sales raw dataset :- :- Forecast the data and find the RMSE value for each model.Find the best model for forecasting.
+2)	Coca cola sales raw dataset :- Forecast the data and find the RMSE value for each model.Find the best model for forecasting.
 3)	Plastic sales dataset :-  Forecast the data and find the RMSE value for each model.Find the best model for forecasting.
 
 Programming:- Python
