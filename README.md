@@ -21,5 +21,5 @@ Data Used :
 
 Programming:- Python
 
-The Codes regarding  Forecasting with Three different business problems Airlines dataset, Coca cola sales raw dataset, Plastic sales dataset are present in this Repository in detail.
+The Codes regarding  Forecasting with Two different business problems Airlines dataset, Coca cola sales raw dataset,dataset are present in this Repository in detail.
 
